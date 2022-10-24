@@ -33,7 +33,6 @@ def circle_func(index, angle): #Index - номер окружности; Angle -
         t.forward(140)
         t.left(angle)
         t.end_fill()
-        return counter
 
 
 #Переносим Pointer в левый верхний угол и устанавливаем на начало первой окружности
